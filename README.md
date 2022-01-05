@@ -1,3 +1,8 @@
+## **Links**
+- Live page: [https://seekinfox.github.io/firebase-react-practice-/](https://seekinfox.github.io/firebase-react-practice-/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
